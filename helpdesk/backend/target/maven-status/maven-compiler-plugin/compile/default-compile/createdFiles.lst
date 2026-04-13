@@ -1,0 +1,14 @@
+com\helpdesk\dto\TicketResponse.class
+com\helpdesk\dto\UsuarioResponse.class
+com\helpdesk\HelpdeskApplication.class
+com\helpdesk\enums\Rol.class
+com\helpdesk\dto\UsuarioRequest.class
+com\helpdesk\dto\ComentarioRequest.class
+com\helpdesk\dto\TicketRequest.class
+com\helpdesk\config\GlobalExceptionHandler.class
+com\helpdesk\dto\ComentarioResponse$ComentarioResponseBuilder.class
+com\helpdesk\enums\EstadoTicket.class
+com\helpdesk\dto\UsuarioResponse$UsuarioResponseBuilder.class
+com\helpdesk\dto\ComentarioResponse.class
+com\helpdesk\enums\Prioridad.class
+com\helpdesk\dto\TicketResponse$TicketResponseBuilder.class

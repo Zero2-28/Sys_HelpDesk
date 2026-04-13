@@ -1,0 +1,17 @@
+# Backend
+helpdesk/backend/target/
+helpdesk/backend/helpdesk.db        ← not ignore the database file
+helpdesk/backend/*.db
+
+# Frontend
+helpdesk/frontend/node_modules/
+helpdesk/frontend/dist/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Env
+.env
+.env.local
